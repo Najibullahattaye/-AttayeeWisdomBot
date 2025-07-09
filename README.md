@@ -1,2 +1,2 @@
-# -AttayeeWisdomBot
-A Telegram bot for delivering secret spiritual, educational, and security-based knowledge to select groups."
+# ATTAYeayeWisdomBot
+A secret educational Telegram bot.
